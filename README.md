@@ -28,4 +28,3 @@ Usage: ./macedns.sh
 $ ./macedns.sh 2 ~/var/named/chroot/etc/named
  3
 ```
-A
