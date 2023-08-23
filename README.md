@@ -1,7 +1,8 @@
 # macednstool
 ##### Change field number at the script if your type A field records aren't 3 or 4
+```
 chmod +x macedns.sh
-
+```
 ```
 Usage: ./macedns.sh
 
@@ -13,6 +14,7 @@ Usage: ./macedns.sh
 ```
 
 ####Ex.:
+```
 $ ./macedns 4
 
 Usage: ./macedns.sh
@@ -25,3 +27,5 @@ Usage: ./macedns.sh
 
 $ ./macedns.sh 2 ~/var/named/chroot/etc/named
  3
+```
+A
