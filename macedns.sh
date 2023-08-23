@@ -16,7 +16,7 @@ fi
 count()
 {
   #Count null records
-  list|wc -l
+  list|grep A|wc -l
 }
 
 list()
