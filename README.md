@@ -38,11 +38,11 @@ $ ./macedns.sh 2 ~/var/named/chroot/etc/named
 O Item deve ter o tipo "unsigned integer".
 
 É interessante criar um mapa de valores:
-``
+```
 "0 - OK (Sem registros vazios)"
 
 ">1 - NOK (Existem registros vazios)"
-``
+```
 "Lê-se: maior que 1"
 
 Adicione a linha em um de seus arquivos de Custom checks nos servidores de DNS:
